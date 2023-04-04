@@ -9,7 +9,9 @@ public class Employee {
 	     System.out.println("two");
 		}
 	
-
+    private void thirdMethod() {
+      System.out.println("three");
+	}
 	
 	
 }
